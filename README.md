@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lab3vue_act3_dzadroga
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# vue-multicomponent-app
+>>>>>>> 6fd8a550d4d463a282fa9a17e914684b27cc6ef7
