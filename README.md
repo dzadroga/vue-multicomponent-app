@@ -1,33 +1,39 @@
-<<<<<<< HEAD
-# lab3vue_act3_dzadroga
+# Vue Money Converter Application
 
-This template should help get you started developing with Vue 3 in Vite.
+## Overview
+The application allows users to convert between different currencies dynamically, showcasing real-time data handling and user input processing.
 
-## Recommended IDE Setup
+## Features
+- Currency conversion between different units
+- Real time calculation based on user input
+- Interactive and responsive user interface
+- Component based architecture using Vue
+- Form handling and input validation
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Technologies Used
+- Vue.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Node.js
+- npm / Vite
 
-## Customize configuration
+## What I Learned
+- Building interactive Vue components
+- Handling user input and dynamic updates
+- Managing state within a frontend application
+- Implementing real-time calculations
+- Structuring clean and reusable frontend code
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## My Role
+I developed the application, including designing the UI, implementing the conversion logic, and ensuring smooth user interaction.
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-=======
-# vue-multicomponent-app
->>>>>>> 6fd8a550d4d463a282fa9a17e914684b27cc6ef7
+## How to Run
+1. Clone this repository
+2. Open the project in your preferred IDE (VS Code recommended)
+3. Install dependencies:
+   ```bash
+   npm install
+4. Start the server:
+   npm run dev
+5. Open the application in your browser at:
+   http://localhost:5173
